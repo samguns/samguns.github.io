@@ -4,7 +4,7 @@
   <title><![CDATA[Sam's Blog]]></title>
   <link href="http://samguns.github.io/atom.xml" rel="self"/>
   <link href="http://samguns.github.io/"/>
-  <updated>2015-01-30T16:19:19+08:00</updated>
+  <updated>2015-01-30T19:36:54+08:00</updated>
   <id>http://samguns.github.io/</id>
   <author>
     <name><![CDATA[Sam Wang]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[new]]></title>
+    <link href="http://samguns.github.io/blog/2015/01/30/new/"/>
+    <updated>2015-01-30T19:35:44+08:00</updated>
+    <id>http://samguns.github.io/blog/2015/01/30/new</id>
+    <content type="html"><![CDATA[<p>My first blog.</p>
+]]></content>
+  </entry>
   
 </feed>
