@@ -1,0 +1,9 @@
+---
+layout: post
+title: "new"
+date: 2015-01-30 19:35:44 +0800
+comments: true
+categories: 
+---
+
+My first blog.
