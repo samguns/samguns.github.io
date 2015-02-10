@@ -7,3 +7,9 @@ categories:
 ---
 
 My first blog.
+
+$$
+\begin{align*}
+  G_c(s) = K_p(1 + \frac{1}{T_is} + T_ds)
+\end{align*}
+$$
