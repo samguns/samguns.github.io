@@ -4,7 +4,7 @@
   <title><![CDATA[Sam's Blog]]></title>
   <link href="http://samguns.github.io/atom.xml" rel="self"/>
   <link href="http://samguns.github.io/"/>
-  <updated>2015-01-31T16:06:52+08:00</updated>
+  <updated>2015-02-10T10:59:17+08:00</updated>
   <id>http://samguns.github.io/</id>
   <author>
     <name><![CDATA[Sam Wang]]></name>
@@ -19,6 +19,12 @@
     <updated>2015-01-30T19:35:44+08:00</updated>
     <id>http://samguns.github.io/blog/2015/01/30/new</id>
     <content type="html"><![CDATA[<p>My first blog.</p>
+
+<script type="math/tex; mode=display">
+\begin{align*}
+  G_c(s) = K_p(1 + \frac{1}{T_is} + T_ds)
+\end{align*}
+</script>
 ]]></content>
   </entry>
   
